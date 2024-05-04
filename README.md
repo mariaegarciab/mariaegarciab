@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mariaegarciab
-- 👀 I’m interested in AI for Health Care
+- 👋 Hi, I’m Maria Elena Garcia Baiz
+- 👀 I’m interested in advanced data science and data analyst to solve real-world problems
 - 🌱 I’m currently in a Master on Business Analytics and Big Data
-- 💞️ I’m looking to collaborate on enhancing a software with NLP on Cancer diagnosis
+- 💞️ I’m looking to collaborate on enhancing a software with NLP
 - 📫 Can reach me on Linkedin www.linkedin.com/in/mariaelenagarciabaiz
 - ⚡ Fun fact: I know how to make sushi
 
